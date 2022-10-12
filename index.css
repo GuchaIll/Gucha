@@ -391,18 +391,18 @@ body {
 }
 /* home */
 .home {
-    background-image: url(./assets/F3C4D524-4671-417D-82BE-DA35B194FF8B.jpeg);
+    background-image: url(F3C4D524-4671-417D-82BE-DA35B194FF8B.jpeg);
 }
 
 @media (min-width: 35rem) {
     .home {
         background-position: center center;
-        background-image: url(./assets/AA049D29-83E9-4CFE-9861-A8FC0D177AA8.jpeg);
+        background-image: url(AA049D29-83E9-4CFE-9861-A8FC0D177AA8.jpeg);
     }
 }
 
 @media (min-width: 45rem) {
     .home {
-        background-image: url(./assets/AA049D29-83E9-4CFE-9861-A8FC0D177AA8.jpeg);
+        background-image: url(AA049D29-83E9-4CFE-9861-A8FC0D177AA8.jpeg);
     }
 }
